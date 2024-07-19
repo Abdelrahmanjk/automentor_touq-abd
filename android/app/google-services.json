@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "921794004450",
+    "project_id": "auto-mintorx",
+    "storage_bucket": "auto-mintorx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921794004450:android:66ae78e58e7d79c8f525bb",
+        "android_client_info": {
+          "package_name": "com.example.auto_mentorx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6-3q7mGJJh12wCg7eY4ITy58lfdAMe3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
